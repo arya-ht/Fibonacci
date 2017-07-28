@@ -5,7 +5,7 @@
 #pragma warning(disable:4996)
 // created by Arya HajiTaheri
 #define SIZE 10000
-int main() {
+int main(void) {
 	FILE *file;
 	int arr[SIZE];
 	int i = 0;
